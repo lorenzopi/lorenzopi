@@ -2,7 +2,7 @@
 - 👀 I’m interested in mortgages, blockchain, fintech
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on crypto/defi projects
-- 📫 How to reach me @nzovice on twitter
+- 📫 @nzovice on twitter
 
 <!---
 lorenzopi/lorenzopi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
