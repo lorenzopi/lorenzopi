@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lorenzopi
 - 👀 I’m interested in mortgages, blockchain, fintech
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on crypto/defi projects
 - 📫 @nzovice on twitter
 
 <!---
