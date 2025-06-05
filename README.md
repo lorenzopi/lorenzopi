@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @lorenzopi
-- 👀 I’m interested in mortgages, blockchain, fintech
-- 🌱 I’m currently learning python
-- 📫 @nzovice on twitter
 
 <!---
 lorenzopi/lorenzopi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
